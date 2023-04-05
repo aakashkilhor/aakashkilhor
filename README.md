@@ -28,6 +28,7 @@ Here are some of the projects I've worked on recently:
 - [ToDo App - MERN](https://github.com/aakashkilhor/task-management-app.git)
 - [Auth System](https://github.com/aakashkilhor/auth-system.git)
 - [Tic-Tac-Toe Game - React](https://github.com/aakashkilhor/tic-tac-toe.git)
+- [github-user-search - React](https://github.com/aakashkilhor/github-user-search.git)
 
 ## 📫 How to Reach Me
 
