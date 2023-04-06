@@ -29,6 +29,12 @@ Here are some of the projects I've worked on recently:
 - [Auth System](https://github.com/aakashkilhor/auth-system.git)
 - [Tic-Tac-Toe Game - React](https://github.com/aakashkilhor/tic-tac-toe.git)
 - [github-user-search - React](https://github.com/aakashkilhor/github-user-search.git)
+- [isro-api - React](https://github.com/aakashkilhor/isro-api.git)
+
+## Deployed links
+- [github-user-search - React](https://inspiring-churros-ae6581.netlify.app/)
+- [isro-api - React](https://lively-fudge-5208d4.netlify.app/)
+
 
 ## 📫 How to Reach Me
 
