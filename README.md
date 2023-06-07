@@ -23,18 +23,14 @@ I'm always looking to learn new things! Here are some of the technologies that I
 
 ## 🔭 Projects
 
-Here are some of the projects I've worked on recently:
+Here are some of the projects I've worked on recently with their repository Links:
 
 - [ToDo App - MERN](https://github.com/aakashkilhor/task-management-app.git)
 - [Auth System](https://github.com/aakashkilhor/auth-system.git)
-- [Tic-Tac-Toe Game - React](https://github.com/aakashkilhor/tic-tac-toe.git)
-- [github-user-search - React](https://github.com/aakashkilhor/github-user-search.git)
-- [isro-api - React](https://github.com/aakashkilhor/isro-api.git)
+- [Developer Landing Page](https://github.com/aakashkilhor/Developer-Landing-Page)
 
 ## Deployed links
-- [github-user-search - React](https://inspiring-churros-ae6581.netlify.app/)
-- [isro-api - React](https://lively-fudge-5208d4.netlify.app/)
-
+- [Portfolio Website](https://heroic-starburst-04083a.netlify.app/)
 
 ## 📫 How to Reach Me
 
