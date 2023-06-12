@@ -19,7 +19,7 @@ I'm Aakash Yadav, a Full Stack JavaScript Web Developer based in Gurugram,Haryan
 I'm always looking to learn new things! Here are some of the technologies that I'm currently learning:
 
 - Typescript
-- Angular
+- NextJs
 
 ## 🔭 Projects
 
@@ -35,7 +35,6 @@ Here are some of the projects I've worked on recently with their repository Link
 ## 📫 How to Reach Me
 
 You can reach me via email at aakashkilhor@gmail.com or on https://www.linkedin.com/in/aakash-kilhor 
-Checkout my portfolio at https://heroic-starburst-04083a.netlify.app/
 
 Thanks for stopping by!
 
