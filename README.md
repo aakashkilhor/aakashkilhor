@@ -4,15 +4,16 @@ I'm Aakash Yadav, a Full Stack JavaScript Web Developer based in Gurugram,Haryan
 
 ## 💻 Technologies and Tools
 
-- HTML
-- CSS
-- Tailwind CSS
+- HTML5
+- CSS3
+- Tailwind
 - Bootstrap
-- React
+- JavaScript
+- ReactJS
+- Redux
 - MongoDB
 - Express.js
 - Node.js
-- Redux
 
 ## 🌱 Currently Learning
 
