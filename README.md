@@ -2,6 +2,8 @@
 
 I'm Aakash Yadav, a Full Stack JavaScript Web Developer based in Gurugram,Haryana.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashkilhor&label=Profile%20views&color=0e75b6&style=flat" alt="kilhor" /> </p>
+
 ## 💻 Technologies and Tools
 
 - HTML5
